@@ -1,0 +1,16 @@
+#card {
+    font-family: Helvetica, sans-serif;
+    text-align: center;
+    color: #79ccc9;
+    border: #79ccc9 solid 5px;
+    width: 25%;
+    margin: auto;
+}
+
+#inside {
+    font-family: Helvetica, sans-serif;
+    font-weight: lighter;
+    text-align: center;
+    color: #79ccc9;
+    margin: auto;
+}
